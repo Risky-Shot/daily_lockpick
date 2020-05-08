@@ -6,6 +6,8 @@ IT WON'T DO ANYTHING BY ITSELF!!
 
 Design by: [teolitto](https://codepen.io/teolitto/pen/vLEEbY)
 
+[SHOWCASE](https://imgur.com/JByE6zm)
+
 ## FUNCTIONS
 
 - HTML based lockpicking system
